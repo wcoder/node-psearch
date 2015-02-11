@@ -7,7 +7,16 @@ npm install node-psearch
 ```
 
 ## Usage
+
+```
+var psearch = require('node-psearch');
+
+// ...
+```
+
 Show [example](https://github.com/wcoder/node-psearch/blob/master/example/run.js).
+
+
 
 Request options:
 
