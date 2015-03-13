@@ -1,4 +1,4 @@
-# node-psearch
+# node-psearch [![node-psearch API Documentation](https://www.omniref.com/js/npm/node-psearch.png)](https://www.omniref.com/js/npm/node-psearch)
 NodeJS module for the search of popular map using Yandex.Maps API.
 
 ## Install
